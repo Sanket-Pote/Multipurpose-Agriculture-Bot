@@ -5,10 +5,11 @@
 An agriculture pesticide spraying bot is an automated solution designed to enhance the efficiency and precision of pesticide application in agricultural fields. Using modern technology, the bot autonomously navigates through crops, applying pesticides precisely where needed, thus optimizing pesticide use and reducing manual labor.
 
 ##Benefits
--**Precision Application:**Targets specific areas to minimize pesticide waste and environmental impact.
 
--**Labor Efficiency:
-Reduces the need for manual labor, saving time and effort for farmers.
+- **Precision Application:**Targets specific areas to minimize pesticide waste and environmental impact.
+
+- **Labor Efficiency:
+**Reduces the need for manual labor, saving time and effort for farmers.
 
 -**Cost-Effective:
 Lowers pesticide usage and labor costs, making it economical for farmers.
