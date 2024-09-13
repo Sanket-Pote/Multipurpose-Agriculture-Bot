@@ -1,4 +1,4 @@
-# Agriculture-Pesticide-Spraying-Bot
+# Multipurpose Agriculture Bot
 
 ##Overview
 
